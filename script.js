@@ -19,6 +19,5 @@ function clearOutput() {
   outputBox.textContent = "_";
 }
 
-// 버튼 이벤트 연결
 startButton.addEventListener("click", startWebcam);
 clearButton.addEventListener("click", clearOutput);
