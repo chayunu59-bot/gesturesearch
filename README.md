@@ -16,7 +16,7 @@
   <main>
     <section id="camera-section">
       <video id="webcam" autoplay playsinline></video>
-      <div id="guide-text">웹캠을 켜고 손 제스처를 보여주세요 👋</div>
+      <div id="guide-text">웹캠을 켜고 손 제스처를 보여주세요  👋</div>
     </section>
 
     <section id="control-section">
